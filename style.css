@@ -1,0 +1,11 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+img{
+    width: 450px;
+}
+div {
+  -ms-flex: 1;  /* IE 10 */  
+  flex: 1;
+}
